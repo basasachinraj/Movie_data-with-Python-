@@ -1,4 +1,4 @@
-# Movie_data-with-Python-
+# Movie_dataset Analysis using Python
 Summary
 The dataset contains information about movies, including attributes such as year, Company, Revenue, and rating. The goal of the analysis is to understand the relationship between these attributes.
 
