@@ -18,5 +18,4 @@ The dataset contains n rows and m columns (replace with actual numbers).
 There are no missing values in the dataset (if applicable).
 The correlation analysis reveals strong positive relationships between Revenue and rating, indicating that higher-rated movies tend to generate more revenue.
 A scatter plot visualization shows the distribution of Revenue vs. rating for different companies, with additional insights provided by the color-coding for each company.
-Code Snippets:
 
